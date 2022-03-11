@@ -1,0 +1,22 @@
+body{
+  margin:20px;
+  background-color: skyblue;
+}
+
+#grid{
+  display:grid;
+  color:green;
+}
+
+h1{
+  margin:0;
+  text-align: center;
+  border-bottom: 1px solid red;
+  padding-bottom: 10px;
+}
+
+ol{
+  border-right: 1px solid red;
+  width:200px;
+  margin:0;
+}
